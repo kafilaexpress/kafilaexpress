@@ -1,5 +1,5 @@
-### Hi there 👋, my name is kafila express
-#### Ikuti Kafila Express
+### Hi there 👋
+
 ![Kafila Express](https://www.linkpicture.com/q/kafila-express_logo.png)
 
 # 💫 About Me:
