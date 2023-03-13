@@ -3,7 +3,7 @@
 ![Kafila Express](https://www.linkpicture.com/q/kafila-express_logo.png)
 
 # 💫 About Me:
-[https://kafilaexpress.com/](Kafila Express) merupakan sebuah perusahaan yang bergerak dalam bidang Jasa Pengiriman Barang.
+[Kafila Express](https://kafilaexpress.com/) merupakan sebuah perusahaan yang bergerak dalam bidang Jasa Pengiriman Barang.
 Kami melayani pengiriman barang ke seluruh wilayah Indonesia baik pengiriman barang door-to-door maupun port-to-port.
 
 
